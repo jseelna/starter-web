@@ -1,2 +1,3 @@
 TestIgnore
 log/
+*.orig
