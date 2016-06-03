@@ -14,6 +14,9 @@ examples
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull requests for
+review.
+
 ## Deployment
 Deploy to any web server
 
