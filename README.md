@@ -9,8 +9,10 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple
+examples 
 
 ## How To Contribute
 
 ## Deployment
+Deploy to any web server
