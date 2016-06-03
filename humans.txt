@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jeffrey Seelnacht	jseelna@comcast.net @jseelna
 
 # THANKS
 
