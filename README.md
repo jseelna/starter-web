@@ -23,4 +23,4 @@ Deploy to any web server
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
