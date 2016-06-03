@@ -16,3 +16,7 @@ examples
 
 ## Deployment
 Deploy to any web server
+
+### Copyright
+
+2014 Git.Training.
